@@ -11,4 +11,3 @@ elif a>0 and a%d==0:
 else:
     print("这不是闰年")
 
-print ("Hello World")
