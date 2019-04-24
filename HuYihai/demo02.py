@@ -13,3 +13,4 @@ elif score>=0 and score<=60:
 else:
     print("请输入正确成绩")
 print score
+print ("Hello World")
