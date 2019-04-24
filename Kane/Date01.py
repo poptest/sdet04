@@ -3,6 +3,7 @@ str_date=raw_input("请输入一个年份")
 
 #新建一个变量将输入的值转化为float类型的数据
 date=float(str_date)
+print("Weidong nihao")
 
 #判断输入的数据是否大于0
 if date<=0:
