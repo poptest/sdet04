@@ -15,8 +15,8 @@ elif str_date.count('.')==1:
 else:
     #判断输入的数据是否为闰年
     if date%4==0 and date%100!=0:
-        print (str(date)+"年是一个闰年")
+        print (str(date)+"年是一个普通闰年")
     elif date%400==0:
-        print (str(date) + "年是一个闰年")
+        print (str(date) + "年是一个世纪闰年")
     else:
         print (str(date) + "年不是一个闰年")
