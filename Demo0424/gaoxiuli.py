@@ -13,3 +13,4 @@ else:
     print ("%s年不是闰年" % year)
 
 print ("one day *_*")
+print ("two day *_*")
