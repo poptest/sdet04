@@ -11,3 +11,7 @@ elif(year<=0):
     print ("%s年不是年份"%year)
 else:
     print ("%s年不是闰年" % year)
+
+print ("one day *_*")
+print ("two day *_*")
+print ("three day *_*")
