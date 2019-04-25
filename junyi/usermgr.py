@@ -4,3 +4,4 @@ def login(username, password):
         return 1
     else:
         return 0
+
